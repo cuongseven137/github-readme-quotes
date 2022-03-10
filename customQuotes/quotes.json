@@ -1,30 +1,16 @@
 [
     {
-        "quote":"Github Quotes for README",
-        "author":"Open Source"
+        "quote":"Hành trình vạn dặm bắt đầu từ một bước chân.",
+        "author":"Lão Tử"
     },
-    {
-        "quote":"War is as much a punishment to a punisher as it is to the sufferer",
-        "author":"Thomas Jefferson"
+    
+      {
+        "quote":"A journey of a thousand miles begins with one step.",
+        "author":"Lão Tử"
     },
-    {
-        "quote":"First solve the problem. Then write the code",
-        "author":"John Johnson"
-    },
-    {
-        "quote":"It is harder to read code than to write it",
-        "author":"Joel Spolsky"
-    },
-    {
-        "quote":"Parents wonder why the streams are bitter, when they themselves have poisoned the fountain.",
-        "author":"John Locke"
-    },
-    {
-        "quote":"Pity for the guilty is treason to the innocent.",
-        "author":"Terry Goodkind, Faith of the Fallen"
-    },
-    {
-        "quote":"Learn from the mistakes of others. You can't live long enough to make them all yourself",
-        "author":"Eleanor Roosevelt"
+    
+     {
+        "quote":"千マイルの旅は、一歩から始まります。",
+        "author":"Lão Tử"
     }
 ]
